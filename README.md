@@ -1,8 +1,14 @@
 # Connectly Backend API
 
-**Scalable Laravel 10 REST API** built to power modern React frontends.
+**Scalable Laravel 9 REST API** built to power modern React frontends.
 
 Developed as Founding Developer during the early MVP stage of a social + events + fintech platform. This backend was designed from day one with **frontend consumption in mind**, enabling seamless integration with React and Next.js applications.
+
+---
+
+## Preview
+
+![Connectly Preview](./screenshot.png)
 
 ---
 
