@@ -1,8 +1,8 @@
-# FansRoad Backend API
+# Connectly Backend API
 
 **Scalable Laravel 10 REST API** built to power modern React frontends.
 
-Developed as Founding Developer during the early MVP stage of a social + events + fintech platform. This backend was designed from day one with **frontend consumption in mind**, allowing seamless integration with React and Next.js applications.
+Developed as Founding Developer during the early MVP stage of a social + events + fintech platform. This backend was designed from day one with **frontend consumption in mind**, enabling seamless integration with React and Next.js applications.
 
 ---
 
@@ -45,8 +45,8 @@ This experience helps me build better React applications today, as I understand 
 - Reduced over-fetching through focused, purpose-built endpoints
 - Clean separation between data layer and presentation layer
 - Authentication flow designed for single-page applications
-- Support for efficient data fetching patterns (ideal for React Query, SWR, or TanStack Query)
-- CORS properly configured for frontend applications
+- Support for efficient data fetching patterns (ideal for React Query / TanStack Query)
+- CORS properly configured for frontend clients
 
 ---
 
